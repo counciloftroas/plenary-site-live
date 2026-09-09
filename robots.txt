@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plenary.life/sitemap.xml
